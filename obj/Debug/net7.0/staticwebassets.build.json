@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8DMEJGwAXcfwO9M6AkH9baMoVqyE4A0aXHT3sT9qLIo=",
+  "Source": "webapiredis",
+  "BasePath": "_content/webapiredis",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
